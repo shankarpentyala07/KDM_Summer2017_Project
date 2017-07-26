@@ -1,0 +1,4 @@
+has-written-to,PERSON,PERSON,Func
+of,LOCATION,PERSON,Func
+warned,DURATION,ORGANIZATION,Func
+day-after,ORGANIZATION,PERSON,Func

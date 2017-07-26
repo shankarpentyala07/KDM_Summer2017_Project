@@ -1,0 +1,1554 @@
+<?xml version="1.0"?>
+<Ontology xmlns="http://www.w3.org/2002/07/owl#"
+     xml:base="http://www.semanticweb.org/Innovators/ontologies/2017/6/Phones#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     ontologyIRI="http://www.semanticweb.org/Innovators/ontologies/2017/6/Phones#">
+    <Prefix name="owl" IRI="http://www.w3.org/2002/07/owl#"/>
+    <Prefix name="rdf" IRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#"/>
+    <Prefix name="xml" IRI="http://www.w3.org/XML/1998/namespace"/>
+    <Prefix name="xsd" IRI="http://www.w3.org/2001/XMLSchema#"/>
+    <Prefix name="rdfs" IRI="http://www.w3.org/2000/01/rdf-schema#"/>
+    <Declaration>
+        <Class IRI="DATE"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="DURATION"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="LOCATION"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="NUMBER"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="ORDINAL"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="ORGANIZATION"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="PERSON"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="TIME"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="373"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Kevin-McCue"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Air"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="hours"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="British"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Survey"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Kashiwazaki-Kariwa"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Warning"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="7.9"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Earlier"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Menlo"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Crescent-City"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Pacific"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="ago"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Nuclear-Safety-Agency"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Fukushima-Daiichi"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Meteorological"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Geological"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Administration"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Sumatran"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Central-Queensland-University"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="James-Goff"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Oceanographical"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="1923"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Tokyo"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="James"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="first"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Baptie"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="South"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Pacific-Tsunami-Warning-Center-in-Hawaii"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Fukushima"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="CNN"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="1230"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="0930"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="four"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="eight"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="PTWC"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Brian-Baptie"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="today"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Scientist"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="America"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Japan"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Tobin"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="February"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="2011"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Queensland"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Clinton"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="2004"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="1830"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Vienna"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="2007"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Harold"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Goff"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Friday"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Oceanic"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Safety"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="British-Geological-Survey-in-Edinburgh"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="prefecture"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="University-of-New-South-Wales-in-Sydney"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Edinburgh"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="&apos;s"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="8000"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="New"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="coming"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="day"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="few"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="1722"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Coghlan"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Centre"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Tuvalu"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="80"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="City"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Robert"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Wales"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Great-Kanto"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Crescent"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="in-Center-is"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Daiichi"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Tsunami"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Brian"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Atomic"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Austria"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="140"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="IAEA"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="million"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Cessaro"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Andy"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="1032"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="1700"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="of"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="and"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="California"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="seismologist-at"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="1707"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="yesterday"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="days"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="20"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="McCue"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Industrial"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Onagawa"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="0300"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="0546"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="11"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="10"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="0307"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Hilary"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="12"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="15"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Kevin"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="14"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Atmospheric"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="is-in"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="National"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Robert-Cessaro"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Nankai"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Australia"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="has"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Power"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Kashiwazaki-Kariwa-nuclear-plant-in-Niigata-prefecture"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="researcher-at"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Center"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Miyagi"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Electric"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Sendai"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="earlier"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="40"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="one"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="North"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Paul-Choudhury"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="3000"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Company"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="year"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Central"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="the"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="USGS"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Park"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Sumit"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Honshu"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="two"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Zealand"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="30"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="July"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Eleven"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Christchurch"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="past"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="26"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Energy"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="State"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Meteorological-Agency"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Wisconsin-Madison"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Jiji"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="next"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="9.0"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Five"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Hawaii"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Research"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Co"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="News"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Southern"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="evening"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="will-see-waves-with"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Authority"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="International"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="US"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="1200"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="UK"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="seven"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="March"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="magnitude-9.0-earthquake"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="geophysicist-at"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="six"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Niigata"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="1891"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="years"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Agency"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="24.4"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Sumatra"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="University"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Alaska"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="five"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Sydney"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Force"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Chile"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Once"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="after"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="last"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="now"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="1305"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="previously"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="this"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="British-Geological-Survey"/>
+    </Declaration>
+    <ClassAssertion>
+        <Class IRI="ORGANIZATION"/>
+        <NamedIndividual IRI="Administration"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="ORGANIZATION"/>
+        <NamedIndividual IRI="Agency"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="ORGANIZATION"/>
+        <NamedIndividual IRI="Air"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="LOCATION"/>
+        <NamedIndividual IRI="Alaska"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="LOCATION"/>
+        <NamedIndividual IRI="America"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="PERSON"/>
+        <NamedIndividual IRI="Andy"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="ORGANIZATION"/>
+        <NamedIndividual IRI="Atmospheric"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="ORGANIZATION"/>
+        <NamedIndividual IRI="Atomic"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="LOCATION"/>
+        <NamedIndividual IRI="Australia"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="LOCATION"/>
+        <NamedIndividual IRI="Austria"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="ORGANIZATION"/>
+        <NamedIndividual IRI="Authority"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="PERSON"/>
+        <NamedIndividual IRI="Baptie"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="PERSON"/>
+        <NamedIndividual IRI="Brian"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="ORGANIZATION"/>
+        <NamedIndividual IRI="British"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="ORGANIZATION"/>
+        <NamedIndividual IRI="CNN"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="LOCATION"/>
+        <NamedIndividual IRI="California"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="ORGANIZATION"/>
+        <NamedIndividual IRI="California"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="LOCATION"/>
+        <NamedIndividual IRI="Center"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="ORGANIZATION"/>
+        <NamedIndividual IRI="Center"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="ORGANIZATION"/>
+        <NamedIndividual IRI="Central"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="ORGANIZATION"/>
+        <NamedIndividual IRI="Centre"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="PERSON"/>
+        <NamedIndividual IRI="Cessaro"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="LOCATION"/>
+        <NamedIndividual IRI="Chile"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="LOCATION"/>
+        <NamedIndividual IRI="Christchurch"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="LOCATION"/>
+        <NamedIndividual IRI="City"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="PERSON"/>
+        <NamedIndividual IRI="Clinton"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="ORGANIZATION"/>
+        <NamedIndividual IRI="Co"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="PERSON"/>
+        <NamedIndividual IRI="Coghlan"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="ORGANIZATION"/>
+        <NamedIndividual IRI="Company"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="LOCATION"/>
+        <NamedIndividual IRI="Crescent"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="ORGANIZATION"/>
+        <NamedIndividual IRI="Daiichi"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="DATE"/>
+        <NamedIndividual IRI="Earlier"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="LOCATION"/>
+        <NamedIndividual IRI="Edinburgh"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="ORGANIZATION"/>
+        <NamedIndividual IRI="Electric"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="NUMBER"/>
+        <NamedIndividual IRI="Eleven"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="ORGANIZATION"/>
+        <NamedIndividual IRI="Energy"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="DATE"/>
+        <NamedIndividual IRI="February"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="NUMBER"/>
+        <NamedIndividual IRI="Five"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="ORGANIZATION"/>
+        <NamedIndividual IRI="Force"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="DATE"/>
+        <NamedIndividual IRI="Friday"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="LOCATION"/>
+        <NamedIndividual IRI="Fukushima"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="ORGANIZATION"/>
+        <NamedIndividual IRI="Fukushima"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="LOCATION"/>
+        <NamedIndividual IRI="Fukushima-Daiichi"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="ORGANIZATION"/>
+        <NamedIndividual IRI="Geological"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="PERSON"/>
+        <NamedIndividual IRI="Goff"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="PERSON"/>
+        <NamedIndividual IRI="Harold"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="LOCATION"/>
+        <NamedIndividual IRI="Hawaii"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="PERSON"/>
+        <NamedIndividual IRI="Hilary"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="LOCATION"/>
+        <NamedIndividual IRI="Honshu"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="ORGANIZATION"/>
+        <NamedIndividual IRI="IAEA"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="ORGANIZATION"/>
+        <NamedIndividual IRI="Industrial"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="ORGANIZATION"/>
+        <NamedIndividual IRI="International"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="PERSON"/>
+        <NamedIndividual IRI="James"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="LOCATION"/>
+        <NamedIndividual IRI="Japan"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="ORGANIZATION"/>
+        <NamedIndividual IRI="Jiji"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="DATE"/>
+        <NamedIndividual IRI="July"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="LOCATION"/>
+        <NamedIndividual IRI="Kashiwazaki-Kariwa"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="PERSON"/>
+        <NamedIndividual IRI="Kevin"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="DATE"/>
+        <NamedIndividual IRI="March"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="PERSON"/>
+        <NamedIndividual IRI="McCue"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="LOCATION"/>
+        <NamedIndividual IRI="Menlo"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="ORGANIZATION"/>
+        <NamedIndividual IRI="Meteorological"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="LOCATION"/>
+        <NamedIndividual IRI="Miyagi"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="LOCATION"/>
+        <NamedIndividual IRI="Nankai"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="ORGANIZATION"/>
+        <NamedIndividual IRI="National"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="LOCATION"/>
+        <NamedIndividual IRI="New"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="ORGANIZATION"/>
+        <NamedIndividual IRI="New"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="ORGANIZATION"/>
+        <NamedIndividual IRI="News"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="LOCATION"/>
+        <NamedIndividual IRI="Niigata"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="LOCATION"/>
+        <NamedIndividual IRI="North"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="ORGANIZATION"/>
+        <NamedIndividual IRI="Oceanic"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="ORGANIZATION"/>
+        <NamedIndividual IRI="Oceanographical"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="LOCATION"/>
+        <NamedIndividual IRI="Onagawa"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="DATE"/>
+        <NamedIndividual IRI="Once"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="ORGANIZATION"/>
+        <NamedIndividual IRI="PTWC"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="LOCATION"/>
+        <NamedIndividual IRI="Pacific"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="ORGANIZATION"/>
+        <NamedIndividual IRI="Pacific"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="LOCATION"/>
+        <NamedIndividual IRI="Park"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="PERSON"/>
+        <NamedIndividual IRI="Paul-Choudhury"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="ORGANIZATION"/>
+        <NamedIndividual IRI="Power"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="ORGANIZATION"/>
+        <NamedIndividual IRI="Queensland"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="ORGANIZATION"/>
+        <NamedIndividual IRI="Research"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="PERSON"/>
+        <NamedIndividual IRI="Robert"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="ORGANIZATION"/>
+        <NamedIndividual IRI="Safety"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="ORGANIZATION"/>
+        <NamedIndividual IRI="Scientist"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="LOCATION"/>
+        <NamedIndividual IRI="Sendai"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="LOCATION"/>
+        <NamedIndividual IRI="South"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="ORGANIZATION"/>
+        <NamedIndividual IRI="South"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="ORGANIZATION"/>
+        <NamedIndividual IRI="Southern"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="ORGANIZATION"/>
+        <NamedIndividual IRI="State"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="LOCATION"/>
+        <NamedIndividual IRI="Sumatra"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="LOCATION"/>
+        <NamedIndividual IRI="Sumatran"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="PERSON"/>
+        <NamedIndividual IRI="Sumit"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="ORGANIZATION"/>
+        <NamedIndividual IRI="Survey"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="LOCATION"/>
+        <NamedIndividual IRI="Sydney"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="PERSON"/>
+        <NamedIndividual IRI="Tobin"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="LOCATION"/>
+        <NamedIndividual IRI="Tokyo"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="ORGANIZATION"/>
+        <NamedIndividual IRI="Tokyo"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="LOCATION"/>
+        <NamedIndividual IRI="Tsunami"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="ORGANIZATION"/>
+        <NamedIndividual IRI="Tsunami"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="LOCATION"/>
+        <NamedIndividual IRI="Tuvalu"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="LOCATION"/>
+        <NamedIndividual IRI="UK"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="LOCATION"/>
+        <NamedIndividual IRI="US"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="ORGANIZATION"/>
+        <NamedIndividual IRI="US"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="ORGANIZATION"/>
+        <NamedIndividual IRI="USGS"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="ORGANIZATION"/>
+        <NamedIndividual IRI="University"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="LOCATION"/>
+        <NamedIndividual IRI="Vienna"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="ORGANIZATION"/>
+        <NamedIndividual IRI="Wales"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="LOCATION"/>
+        <NamedIndividual IRI="Warning"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="ORGANIZATION"/>
+        <NamedIndividual IRI="Warning"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="ORGANIZATION"/>
+        <NamedIndividual IRI="Wisconsin-Madison"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="LOCATION"/>
+        <NamedIndividual IRI="Zealand"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="DATE"/>
+        <NamedIndividual IRI="ago"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="NUMBER"/>
+        <NamedIndividual IRI="and"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="ORGANIZATION"/>
+        <NamedIndividual IRI="and"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="DATE"/>
+        <NamedIndividual IRI="coming"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="DURATION"/>
+        <NamedIndividual IRI="coming"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="DATE"/>
+        <NamedIndividual IRI="day"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="DATE"/>
+        <NamedIndividual IRI="days"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="DURATION"/>
+        <NamedIndividual IRI="days"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="DATE"/>
+        <NamedIndividual IRI="earlier"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="NUMBER"/>
+        <NamedIndividual IRI="eight"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="TIME"/>
+        <NamedIndividual IRI="evening"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="DURATION"/>
+        <NamedIndividual IRI="few"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="ORDINAL"/>
+        <NamedIndividual IRI="first"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="NUMBER"/>
+        <NamedIndividual IRI="five"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="NUMBER"/>
+        <NamedIndividual IRI="four"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="DATE"/>
+        <NamedIndividual IRI="hours"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="DURATION"/>
+        <NamedIndividual IRI="hours"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="DATE"/>
+        <NamedIndividual IRI="last"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="NUMBER"/>
+        <NamedIndividual IRI="million"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="DURATION"/>
+        <NamedIndividual IRI="next"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="DATE"/>
+        <NamedIndividual IRI="now"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="ORGANIZATION"/>
+        <NamedIndividual IRI="of"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="NUMBER"/>
+        <NamedIndividual IRI="one"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="DATE"/>
+        <NamedIndividual IRI="past"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="LOCATION"/>
+        <NamedIndividual IRI="prefecture"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="DATE"/>
+        <NamedIndividual IRI="previously"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="NUMBER"/>
+        <NamedIndividual IRI="seven"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="NUMBER"/>
+        <NamedIndividual IRI="six"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="DATE"/>
+        <NamedIndividual IRI="the"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="DURATION"/>
+        <NamedIndividual IRI="the"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="TIME"/>
+        <NamedIndividual IRI="this"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="DATE"/>
+        <NamedIndividual IRI="today"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="DATE"/>
+        <NamedIndividual IRI="two"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="NUMBER"/>
+        <NamedIndividual IRI="two"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="DATE"/>
+        <NamedIndividual IRI="year"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="DURATION"/>
+        <NamedIndividual IRI="year"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="DURATION"/>
+        <NamedIndividual IRI="years"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="DATE"/>
+        <NamedIndividual IRI="yesterday"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="ORGANIZATION"/>
+        <NamedIndividual IRI="&apos;s"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="DATE"/>
+        <NamedIndividual IRI="0300"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="DATE"/>
+        <NamedIndividual IRI="0307"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="DATE"/>
+        <NamedIndividual IRI="0546"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="DATE"/>
+        <NamedIndividual IRI="0930"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="NUMBER"/>
+        <NamedIndividual IRI="10"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="DATE"/>
+        <NamedIndividual IRI="1032"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="DATE"/>
+        <NamedIndividual IRI="11"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="DATE"/>
+        <NamedIndividual IRI="12"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="DATE"/>
+        <NamedIndividual IRI="1200"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="DATE"/>
+        <NamedIndividual IRI="1230"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="DATE"/>
+        <NamedIndividual IRI="1305"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="NUMBER"/>
+        <NamedIndividual IRI="14"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="NUMBER"/>
+        <NamedIndividual IRI="140"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="NUMBER"/>
+        <NamedIndividual IRI="15"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="DATE"/>
+        <NamedIndividual IRI="1700"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="DATE"/>
+        <NamedIndividual IRI="1707"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="DATE"/>
+        <NamedIndividual IRI="1722"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="DATE"/>
+        <NamedIndividual IRI="1830"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="DATE"/>
+        <NamedIndividual IRI="1891"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="DATE"/>
+        <NamedIndividual IRI="1923"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="NUMBER"/>
+        <NamedIndividual IRI="20"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="DATE"/>
+        <NamedIndividual IRI="2004"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="DATE"/>
+        <NamedIndividual IRI="2007"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="DATE"/>
+        <NamedIndividual IRI="2011"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="NUMBER"/>
+        <NamedIndividual IRI="24.4"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="DATE"/>
+        <NamedIndividual IRI="26"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="NUMBER"/>
+        <NamedIndividual IRI="30"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="NUMBER"/>
+        <NamedIndividual IRI="3000"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="NUMBER"/>
+        <NamedIndividual IRI="373"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="NUMBER"/>
+        <NamedIndividual IRI="40"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="NUMBER"/>
+        <NamedIndividual IRI="7.9"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="NUMBER"/>
+        <NamedIndividual IRI="80"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="NUMBER"/>
+        <NamedIndividual IRI="8000"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="NUMBER"/>
+        <NamedIndividual IRI="9.0"/>
+    </ClassAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="seismologist-at"/>
+        <NamedIndividual IRI="Brian-Baptie"/>
+        <NamedIndividual IRI="British-Geological-Survey-in-Edinburgh"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="is-in"/>
+        <NamedIndividual IRI="British-Geological-Survey"/>
+        <NamedIndividual IRI="Edinburgh"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="has"/>
+        <NamedIndividual IRI="California"/>
+        <NamedIndividual IRI="Crescent-City"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="will-see-waves-with"/>
+        <NamedIndividual IRI="California"/>
+        <NamedIndividual IRI="Alaska"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="after"/>
+        <NamedIndividual IRI="Friday"/>
+        <NamedIndividual IRI="magnitude-9.0-earthquake"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="is-in"/>
+        <NamedIndividual IRI="Great-Kanto"/>
+        <NamedIndividual IRI="1923"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="in-Center-is"/>
+        <NamedIndividual IRI="Hawaii"/>
+        <NamedIndividual IRI="PTWC"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="researcher-at"/>
+        <NamedIndividual IRI="James-Goff"/>
+        <NamedIndividual IRI="University-of-New-South-Wales-in-Sydney"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="has"/>
+        <NamedIndividual IRI="Japan"/>
+        <NamedIndividual IRI="Kashiwazaki-Kariwa-nuclear-plant-in-Niigata-prefecture"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="has"/>
+        <NamedIndividual IRI="Japan"/>
+        <NamedIndividual IRI="Meteorological-Agency"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="has"/>
+        <NamedIndividual IRI="Japan"/>
+        <NamedIndividual IRI="Nuclear-Safety-Agency"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="seismologist-at"/>
+        <NamedIndividual IRI="Kevin-McCue"/>
+        <NamedIndividual IRI="Central-Queensland-University"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="geophysicist-at"/>
+        <NamedIndividual IRI="Robert-Cessaro"/>
+        <NamedIndividual IRI="Pacific-Tsunami-Warning-Center-in-Hawaii"/>
+    </ObjectPropertyAssertion>
+    <FunctionalObjectProperty>
+        <ObjectProperty IRI="after"/>
+    </FunctionalObjectProperty>
+    <FunctionalObjectProperty>
+        <ObjectProperty IRI="geophysicist-at"/>
+    </FunctionalObjectProperty>
+    <FunctionalObjectProperty>
+        <ObjectProperty IRI="has"/>
+    </FunctionalObjectProperty>
+    <FunctionalObjectProperty>
+        <ObjectProperty IRI="has"/>
+    </FunctionalObjectProperty>
+    <FunctionalObjectProperty>
+        <ObjectProperty IRI="has"/>
+    </FunctionalObjectProperty>
+    <FunctionalObjectProperty>
+        <ObjectProperty IRI="in-Center-is"/>
+    </FunctionalObjectProperty>
+    <FunctionalObjectProperty>
+        <ObjectProperty IRI="is-in"/>
+    </FunctionalObjectProperty>
+    <FunctionalObjectProperty>
+        <ObjectProperty IRI="is-in"/>
+    </FunctionalObjectProperty>
+    <FunctionalObjectProperty>
+        <ObjectProperty IRI="researcher-at"/>
+    </FunctionalObjectProperty>
+    <FunctionalObjectProperty>
+        <ObjectProperty IRI="seismologist-at"/>
+    </FunctionalObjectProperty>
+    <FunctionalObjectProperty>
+        <ObjectProperty IRI="seismologist-at"/>
+    </FunctionalObjectProperty>
+    <FunctionalObjectProperty>
+        <ObjectProperty IRI="will-see-waves-with"/>
+    </FunctionalObjectProperty>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="after"/>
+        <Class IRI="DATE"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="geophysicist-at"/>
+        <Class IRI="PERSON"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="has"/>
+        <Class IRI="LOCATION"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="has"/>
+        <Class IRI="LOCATION"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="has"/>
+        <Class IRI="LOCATION"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="in-Center-is"/>
+        <Class IRI="LOCATION"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="is-in"/>
+        <Class IRI="PERSON"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="is-in"/>
+        <Class IRI="PERSON"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="researcher-at"/>
+        <Class IRI="PERSON"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="seismologist-at"/>
+        <Class IRI="PERSON"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="seismologist-at"/>
+        <Class IRI="PERSON"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="will-see-waves-with"/>
+        <Class IRI="LOCATION"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="after"/>
+        <Class IRI="NUMBER"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="geophysicist-at"/>
+        <Class IRI="PERSON"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="has"/>
+        <Class IRI="PERSON"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="has"/>
+        <Class IRI="PERSON"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="has"/>
+        <Class IRI="PERSON"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="in-Center-is"/>
+        <Class IRI="PERSON"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="is-in"/>
+        <Class IRI="DATE"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="is-in"/>
+        <Class IRI="LOCATION"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="researcher-at"/>
+        <Class IRI="PERSON"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="seismologist-at"/>
+        <Class IRI="PERSON"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="seismologist-at"/>
+        <Class IRI="PERSON"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="will-see-waves-with"/>
+        <Class IRI="LOCATION"/>
+    </ObjectPropertyRange>
+</Ontology>
+
+
+
+<!-- Generated by the OWL API (version 5.1.0.2017-03-29T23:31:42Z) https://github.com/owlcs/owlapi/ -->
+
+

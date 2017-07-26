@@ -1,0 +1,13 @@
+after,DATE,NUMBER,Func
+has,LOCATION,PERSON,Func
+has,LOCATION,PERSON,Func
+geophysicist-at,PERSON,PERSON,Func
+in-Center-is,LOCATION,PERSON,Func
+will-see-waves-with,LOCATION,LOCATION,Func
+has,LOCATION,PERSON,Func
+is-in,PERSON,LOCATION,Func
+seismologist-at,PERSON,PERSON,Func
+is-in,PERSON,DATE,Func
+has,LOCATION,PERSON,Func
+seismologist-at,PERSON,PERSON,Func
+researcher-at,PERSON,PERSON,Func

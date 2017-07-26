@@ -1,0 +1,4 @@
+Tory-leader-Michael-Howard,has-written-to,Tony-Blair,Obj
+England,of,Monetary-Policy-Committee,Obj
+day,warned,BBC,Obj
+BBC,day-after,Peter-Mandelson,Obj

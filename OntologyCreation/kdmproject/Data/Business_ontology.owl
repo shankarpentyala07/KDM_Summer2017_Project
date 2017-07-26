@@ -1,0 +1,1728 @@
+<?xml version="1.0"?>
+<Ontology xmlns="http://www.w3.org/2002/07/owl#"
+     xml:base="http://www.semanticweb.org/Innovators/ontologies/2017/6/Business#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     ontologyIRI="http://www.semanticweb.org/Innovators/ontologies/2017/6/Business#">
+    <Prefix name="owl" IRI="http://www.w3.org/2002/07/owl#"/>
+    <Prefix name="rdf" IRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#"/>
+    <Prefix name="xml" IRI="http://www.w3.org/XML/1998/namespace"/>
+    <Prefix name="xsd" IRI="http://www.w3.org/2001/XMLSchema#"/>
+    <Prefix name="rdfs" IRI="http://www.w3.org/2000/01/rdf-schema#"/>
+    <Declaration>
+        <Class IRI="DATE"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="DURATION"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="LOCATION"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="MONEY"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="NUMBER"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="ORDINAL"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="ORGANIZATION"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="PERCENT"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="PERSON"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="SET"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Jackie"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Yvette"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="TBWA"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Shepherd"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Beith"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Commission"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Alan"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="currently"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Hutton"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Labour"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Tony"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Dorset"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="day-after"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Library"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="College"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="months"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Greenwich"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="West"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="than"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Tory-leader-Michael-Howard"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="28.7"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Birkbeck"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Chambers"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="affairs"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Blackpool"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="February"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Monday"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Jones"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="McFadyen"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="recently"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="83"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Executive"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="90"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Parliament"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Election"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="of"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Beattie"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="GMTV"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Gillian"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Manchester"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="May"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="autumn"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Joni"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="100"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Michael"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="550m"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Village"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Sunday"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Charles"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Torbay"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="1917"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="week"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Jack"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="future"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Commerce"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Fagin"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Equal"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="three"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Department"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="year"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="MPC"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="NAO"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="hours"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Conservative"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="South"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Alastair"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Asplin"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Gidley"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Brown"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Thomas"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Richard"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="1"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="six"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="British"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Ballard"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Shrewsbury"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="EOC"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="now"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Barbara"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Blair"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Ashcroft"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Ed"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Straw"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="first"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Lovenduski"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Bank"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="&apos;s"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Scotland"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="for"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Betty"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="last"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Peter"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Association"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="spring"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="BBC2"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Fox"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="2001"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Radio"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="2002"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="March"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Now"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="2007"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="2006"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Andrew"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="constitutional"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="years"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Campbell"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="up"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Liam"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="committee"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Harman"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="January"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Liverpool"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Budget"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="current"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="26"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Bournemouth"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Industry"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="UK"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="20"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Treasury"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Frost"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Teather"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Prescott"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="to"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Sandra"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Patricia"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="19"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="the"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Margaret"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="16"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Kennedy"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="13"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="12"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="second"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="10"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="this"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="nine"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Monetary-Policy-Committee"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Harriet"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="silly"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Colin"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="one"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Tories"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Lib"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="after"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="The"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Northern"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="News"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="two"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Committee"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="third"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Theresa"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="General"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Follet"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Hewitt"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Edward"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Brighton"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Today"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="David"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Gateshead"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Peter-Mandelson"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Balls"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Jeremy"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Trade"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="has-written-to"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="500"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Leigh"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="following"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="London"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Ireland"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="1998"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="1997"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="next"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Digby"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="old"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Policy"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Bourn"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="National"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Millennium"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Opportunities"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="John"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="102.80"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Gordon"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="more"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="England"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Trevor"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Audit"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="BBC"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Dem"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Somerset"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Party"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="four"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Howard"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Monetary"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Four"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Wales"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="TUC"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Prof"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="CBI"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Leicester"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="of"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="and"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Inquiry"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Cabinet"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Paxman"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Office"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Basingstoke"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="weeks"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="weekend"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Ms"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Hotel"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Cooper"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="present"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Mr"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="warned"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Moran"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Sarah"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="December"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Britain"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="fuss"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Tony-Blair"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="day"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Mandelson"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="annual"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Dome"/>
+    </Declaration>
+    <ClassAssertion>
+        <Class IRI="PERSON"/>
+        <NamedIndividual IRI="Alan"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="PERSON"/>
+        <NamedIndividual IRI="Alastair"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="PERSON"/>
+        <NamedIndividual IRI="Andrew"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="PERSON"/>
+        <NamedIndividual IRI="Ashcroft"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="PERSON"/>
+        <NamedIndividual IRI="Asplin"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="ORGANIZATION"/>
+        <NamedIndividual IRI="Association"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="ORGANIZATION"/>
+        <NamedIndividual IRI="Audit"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="ORGANIZATION"/>
+        <NamedIndividual IRI="BBC"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="ORGANIZATION"/>
+        <NamedIndividual IRI="BBC2"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="PERSON"/>
+        <NamedIndividual IRI="Ballard"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="PERSON"/>
+        <NamedIndividual IRI="Balls"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="ORGANIZATION"/>
+        <NamedIndividual IRI="Bank"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="PERSON"/>
+        <NamedIndividual IRI="Barbara"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="LOCATION"/>
+        <NamedIndividual IRI="Basingstoke"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="PERSON"/>
+        <NamedIndividual IRI="Beattie"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="PERSON"/>
+        <NamedIndividual IRI="Beith"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="PERSON"/>
+        <NamedIndividual IRI="Betty"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="ORGANIZATION"/>
+        <NamedIndividual IRI="Birkbeck"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="LOCATION"/>
+        <NamedIndividual IRI="Blackpool"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="ORGANIZATION"/>
+        <NamedIndividual IRI="Blackpool"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="PERSON"/>
+        <NamedIndividual IRI="Blair"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="PERSON"/>
+        <NamedIndividual IRI="Bourn"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="LOCATION"/>
+        <NamedIndividual IRI="Bournemouth"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="LOCATION"/>
+        <NamedIndividual IRI="Brighton"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="LOCATION"/>
+        <NamedIndividual IRI="Britain"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="ORGANIZATION"/>
+        <NamedIndividual IRI="British"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="PERSON"/>
+        <NamedIndividual IRI="Brown"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="ORGANIZATION"/>
+        <NamedIndividual IRI="Budget"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="ORGANIZATION"/>
+        <NamedIndividual IRI="CBI"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="ORGANIZATION"/>
+        <NamedIndividual IRI="Cabinet"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="ORGANIZATION"/>
+        <NamedIndividual IRI="Campbell"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="PERSON"/>
+        <NamedIndividual IRI="Campbell"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="ORGANIZATION"/>
+        <NamedIndividual IRI="Chambers"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="PERSON"/>
+        <NamedIndividual IRI="Charles"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="PERSON"/>
+        <NamedIndividual IRI="Colin"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="ORGANIZATION"/>
+        <NamedIndividual IRI="College"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="ORGANIZATION"/>
+        <NamedIndividual IRI="Commerce"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="ORGANIZATION"/>
+        <NamedIndividual IRI="Commission"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="ORGANIZATION"/>
+        <NamedIndividual IRI="Committee"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="ORGANIZATION"/>
+        <NamedIndividual IRI="Conservative"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="PERSON"/>
+        <NamedIndividual IRI="Cooper"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="PERSON"/>
+        <NamedIndividual IRI="David"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="DATE"/>
+        <NamedIndividual IRI="December"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="ORGANIZATION"/>
+        <NamedIndividual IRI="Dem"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="ORGANIZATION"/>
+        <NamedIndividual IRI="Department"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="PERSON"/>
+        <NamedIndividual IRI="Digby"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="LOCATION"/>
+        <NamedIndividual IRI="Dome"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="LOCATION"/>
+        <NamedIndividual IRI="Dorset"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="ORGANIZATION"/>
+        <NamedIndividual IRI="EOC"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="PERSON"/>
+        <NamedIndividual IRI="Ed"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="PERSON"/>
+        <NamedIndividual IRI="Edward"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="ORGANIZATION"/>
+        <NamedIndividual IRI="Election"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="LOCATION"/>
+        <NamedIndividual IRI="England"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="ORGANIZATION"/>
+        <NamedIndividual IRI="England"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="ORGANIZATION"/>
+        <NamedIndividual IRI="Equal"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="ORGANIZATION"/>
+        <NamedIndividual IRI="Executive"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="PERSON"/>
+        <NamedIndividual IRI="Fagin"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="DATE"/>
+        <NamedIndividual IRI="February"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="PERSON"/>
+        <NamedIndividual IRI="Follet"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="DATE"/>
+        <NamedIndividual IRI="Four"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="PERSON"/>
+        <NamedIndividual IRI="Fox"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="PERSON"/>
+        <NamedIndividual IRI="Frost"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="ORGANIZATION"/>
+        <NamedIndividual IRI="GMTV"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="LOCATION"/>
+        <NamedIndividual IRI="Gateshead"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="ORGANIZATION"/>
+        <NamedIndividual IRI="General"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="PERSON"/>
+        <NamedIndividual IRI="Gidley"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="PERSON"/>
+        <NamedIndividual IRI="Gillian"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="PERSON"/>
+        <NamedIndividual IRI="Gordon"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="LOCATION"/>
+        <NamedIndividual IRI="Greenwich"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="PERSON"/>
+        <NamedIndividual IRI="Harman"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="PERSON"/>
+        <NamedIndividual IRI="Harriet"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="PERSON"/>
+        <NamedIndividual IRI="Hewitt"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="ORGANIZATION"/>
+        <NamedIndividual IRI="Hotel"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="PERSON"/>
+        <NamedIndividual IRI="Howard"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="ORGANIZATION"/>
+        <NamedIndividual IRI="Hutton"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="ORGANIZATION"/>
+        <NamedIndividual IRI="Industry"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="ORGANIZATION"/>
+        <NamedIndividual IRI="Inquiry"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="LOCATION"/>
+        <NamedIndividual IRI="Ireland"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="PERSON"/>
+        <NamedIndividual IRI="Jack"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="PERSON"/>
+        <NamedIndividual IRI="Jackie"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="DATE"/>
+        <NamedIndividual IRI="January"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="PERSON"/>
+        <NamedIndividual IRI="Jeremy"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="PERSON"/>
+        <NamedIndividual IRI="John"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="PERSON"/>
+        <NamedIndividual IRI="Jones"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="PERSON"/>
+        <NamedIndividual IRI="Joni"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="PERSON"/>
+        <NamedIndividual IRI="Kennedy"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="ORGANIZATION"/>
+        <NamedIndividual IRI="Labour"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="LOCATION"/>
+        <NamedIndividual IRI="Leicester"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="PERSON"/>
+        <NamedIndividual IRI="Leigh"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="PERSON"/>
+        <NamedIndividual IRI="Liam"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="ORGANIZATION"/>
+        <NamedIndividual IRI="Lib"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="ORGANIZATION"/>
+        <NamedIndividual IRI="Library"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="LOCATION"/>
+        <NamedIndividual IRI="Liverpool"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="LOCATION"/>
+        <NamedIndividual IRI="London"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="PERSON"/>
+        <NamedIndividual IRI="Lovenduski"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="ORGANIZATION"/>
+        <NamedIndividual IRI="MPC"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="LOCATION"/>
+        <NamedIndividual IRI="Manchester"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="PERSON"/>
+        <NamedIndividual IRI="Mandelson"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="DATE"/>
+        <NamedIndividual IRI="March"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="PERSON"/>
+        <NamedIndividual IRI="Margaret"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="DATE"/>
+        <NamedIndividual IRI="May"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="PERSON"/>
+        <NamedIndividual IRI="May"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="PERSON"/>
+        <NamedIndividual IRI="McFadyen"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="PERSON"/>
+        <NamedIndividual IRI="Michael"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="DATE"/>
+        <NamedIndividual IRI="Millennium"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="LOCATION"/>
+        <NamedIndividual IRI="Millennium"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="DATE"/>
+        <NamedIndividual IRI="Monday"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="ORGANIZATION"/>
+        <NamedIndividual IRI="Monetary"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="PERSON"/>
+        <NamedIndividual IRI="Moran"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="PERSON"/>
+        <NamedIndividual IRI="Mr"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="PERSON"/>
+        <NamedIndividual IRI="Ms"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="ORGANIZATION"/>
+        <NamedIndividual IRI="NAO"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="ORGANIZATION"/>
+        <NamedIndividual IRI="National"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="ORGANIZATION"/>
+        <NamedIndividual IRI="News"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="LOCATION"/>
+        <NamedIndividual IRI="Northern"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="DATE"/>
+        <NamedIndividual IRI="Now"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="ORGANIZATION"/>
+        <NamedIndividual IRI="Office"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="ORGANIZATION"/>
+        <NamedIndividual IRI="Opportunities"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="ORGANIZATION"/>
+        <NamedIndividual IRI="Parliament"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="ORGANIZATION"/>
+        <NamedIndividual IRI="Party"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="PERSON"/>
+        <NamedIndividual IRI="Patricia"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="PERSON"/>
+        <NamedIndividual IRI="Paxman"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="PERSON"/>
+        <NamedIndividual IRI="Peter"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="ORGANIZATION"/>
+        <NamedIndividual IRI="Policy"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="PERSON"/>
+        <NamedIndividual IRI="Prescott"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="PERSON"/>
+        <NamedIndividual IRI="Prof"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="ORGANIZATION"/>
+        <NamedIndividual IRI="Radio"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="PERSON"/>
+        <NamedIndividual IRI="Richard"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="PERSON"/>
+        <NamedIndividual IRI="Sandra"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="PERSON"/>
+        <NamedIndividual IRI="Sarah"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="LOCATION"/>
+        <NamedIndividual IRI="Scotland"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="PERSON"/>
+        <NamedIndividual IRI="Shepherd"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="LOCATION"/>
+        <NamedIndividual IRI="Shrewsbury"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="LOCATION"/>
+        <NamedIndividual IRI="Somerset"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="LOCATION"/>
+        <NamedIndividual IRI="South"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="PERSON"/>
+        <NamedIndividual IRI="Straw"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="DATE"/>
+        <NamedIndividual IRI="Sunday"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="ORGANIZATION"/>
+        <NamedIndividual IRI="TBWA"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="ORGANIZATION"/>
+        <NamedIndividual IRI="TUC"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="PERSON"/>
+        <NamedIndividual IRI="Teather"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="DATE"/>
+        <NamedIndividual IRI="The"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="PERSON"/>
+        <NamedIndividual IRI="Theresa"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="PERSON"/>
+        <NamedIndividual IRI="Thomas"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="DATE"/>
+        <NamedIndividual IRI="Today"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="PERSON"/>
+        <NamedIndividual IRI="Tony"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="DATE"/>
+        <NamedIndividual IRI="Torbay"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="ORGANIZATION"/>
+        <NamedIndividual IRI="Tories"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="ORGANIZATION"/>
+        <NamedIndividual IRI="Trade"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="ORGANIZATION"/>
+        <NamedIndividual IRI="Treasury"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="PERSON"/>
+        <NamedIndividual IRI="Trevor"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="LOCATION"/>
+        <NamedIndividual IRI="UK"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="LOCATION"/>
+        <NamedIndividual IRI="Village"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="LOCATION"/>
+        <NamedIndividual IRI="Wales"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="LOCATION"/>
+        <NamedIndividual IRI="West"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="PERSON"/>
+        <NamedIndividual IRI="Yvette"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="ORGANIZATION"/>
+        <NamedIndividual IRI="affairs"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="DATE"/>
+        <NamedIndividual IRI="after"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="ORGANIZATION"/>
+        <NamedIndividual IRI="and"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="SET"/>
+        <NamedIndividual IRI="annual"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="DATE"/>
+        <NamedIndividual IRI="autumn"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="ORGANIZATION"/>
+        <NamedIndividual IRI="committee"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="ORGANIZATION"/>
+        <NamedIndividual IRI="constitutional"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="DATE"/>
+        <NamedIndividual IRI="current"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="DATE"/>
+        <NamedIndividual IRI="currently"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="DATE"/>
+        <NamedIndividual IRI="day"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="DURATION"/>
+        <NamedIndividual IRI="day"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="DURATION"/>
+        <NamedIndividual IRI="first"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="ORDINAL"/>
+        <NamedIndividual IRI="first"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="DATE"/>
+        <NamedIndividual IRI="following"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="ORGANIZATION"/>
+        <NamedIndividual IRI="for"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="DURATION"/>
+        <NamedIndividual IRI="four"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="DATE"/>
+        <NamedIndividual IRI="fuss"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="DATE"/>
+        <NamedIndividual IRI="future"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="DURATION"/>
+        <NamedIndividual IRI="hours"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="DATE"/>
+        <NamedIndividual IRI="last"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="DURATION"/>
+        <NamedIndividual IRI="months"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="DURATION"/>
+        <NamedIndividual IRI="more"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="DATE"/>
+        <NamedIndividual IRI="next"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="DURATION"/>
+        <NamedIndividual IRI="nine"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="DATE"/>
+        <NamedIndividual IRI="now"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="ORGANIZATION"/>
+        <NamedIndividual IRI="of"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="DURATION"/>
+        <NamedIndividual IRI="old"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="NUMBER"/>
+        <NamedIndividual IRI="one"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="DATE"/>
+        <NamedIndividual IRI="present"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="DATE"/>
+        <NamedIndividual IRI="recently"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="ORDINAL"/>
+        <NamedIndividual IRI="second"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="DATE"/>
+        <NamedIndividual IRI="silly"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="DURATION"/>
+        <NamedIndividual IRI="six"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="NUMBER"/>
+        <NamedIndividual IRI="six"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="DATE"/>
+        <NamedIndividual IRI="spring"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="DURATION"/>
+        <NamedIndividual IRI="than"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="DATE"/>
+        <NamedIndividual IRI="the"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="DURATION"/>
+        <NamedIndividual IRI="the"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="ORDINAL"/>
+        <NamedIndividual IRI="third"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="DATE"/>
+        <NamedIndividual IRI="this"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="DURATION"/>
+        <NamedIndividual IRI="three"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="NUMBER"/>
+        <NamedIndividual IRI="three"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="DURATION"/>
+        <NamedIndividual IRI="to"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="DURATION"/>
+        <NamedIndividual IRI="two"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="DURATION"/>
+        <NamedIndividual IRI="up"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="DATE"/>
+        <NamedIndividual IRI="week"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="DURATION"/>
+        <NamedIndividual IRI="week"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="DATE"/>
+        <NamedIndividual IRI="weekend"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="DURATION"/>
+        <NamedIndividual IRI="weeks"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="DATE"/>
+        <NamedIndividual IRI="year"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="DURATION"/>
+        <NamedIndividual IRI="year"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="DATE"/>
+        <NamedIndividual IRI="years"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="DURATION"/>
+        <NamedIndividual IRI="years"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="ORGANIZATION"/>
+        <NamedIndividual IRI="&apos;s"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="MONEY"/>
+        <NamedIndividual IRI="1"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="NUMBER"/>
+        <NamedIndividual IRI="10"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="PERCENT"/>
+        <NamedIndividual IRI="10"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="DURATION"/>
+        <NamedIndividual IRI="100"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="NUMBER"/>
+        <NamedIndividual IRI="100"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="NUMBER"/>
+        <NamedIndividual IRI="100"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="MONEY"/>
+        <NamedIndividual IRI="102.80"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="DURATION"/>
+        <NamedIndividual IRI="12"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="DURATION"/>
+        <NamedIndividual IRI="13"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="DATE"/>
+        <NamedIndividual IRI="16"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="PERCENT"/>
+        <NamedIndividual IRI="19"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="DATE"/>
+        <NamedIndividual IRI="1917"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="DATE"/>
+        <NamedIndividual IRI="1997"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="DATE"/>
+        <NamedIndividual IRI="1998"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="NUMBER"/>
+        <NamedIndividual IRI="20"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="DATE"/>
+        <NamedIndividual IRI="2001"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="DATE"/>
+        <NamedIndividual IRI="2002"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="DATE"/>
+        <NamedIndividual IRI="2006"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="DATE"/>
+        <NamedIndividual IRI="2007"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="DURATION"/>
+        <NamedIndividual IRI="26"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="MONEY"/>
+        <NamedIndividual IRI="28.7"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="MONEY"/>
+        <NamedIndividual IRI="500"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="MONEY"/>
+        <NamedIndividual IRI="550m"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="NUMBER"/>
+        <NamedIndividual IRI="83"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="PERCENT"/>
+        <NamedIndividual IRI="90"/>
+    </ClassAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="day-after"/>
+        <NamedIndividual IRI="BBC"/>
+        <NamedIndividual IRI="Peter-Mandelson"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="of"/>
+        <NamedIndividual IRI="England"/>
+        <NamedIndividual IRI="Monetary-Policy-Committee"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="has-written-to"/>
+        <NamedIndividual IRI="Tory-leader-Michael-Howard"/>
+        <NamedIndividual IRI="Tony-Blair"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="warned"/>
+        <NamedIndividual IRI="day"/>
+        <NamedIndividual IRI="BBC"/>
+    </ObjectPropertyAssertion>
+    <FunctionalObjectProperty>
+        <ObjectProperty IRI="day-after"/>
+    </FunctionalObjectProperty>
+    <FunctionalObjectProperty>
+        <ObjectProperty IRI="has-written-to"/>
+    </FunctionalObjectProperty>
+    <FunctionalObjectProperty>
+        <ObjectProperty IRI="of"/>
+    </FunctionalObjectProperty>
+    <FunctionalObjectProperty>
+        <ObjectProperty IRI="warned"/>
+    </FunctionalObjectProperty>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="day-after"/>
+        <Class IRI="ORGANIZATION"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="has-written-to"/>
+        <Class IRI="PERSON"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="of"/>
+        <Class IRI="LOCATION"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="warned"/>
+        <Class IRI="DURATION"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="day-after"/>
+        <Class IRI="PERSON"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="has-written-to"/>
+        <Class IRI="PERSON"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="of"/>
+        <Class IRI="PERSON"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="warned"/>
+        <Class IRI="ORGANIZATION"/>
+    </ObjectPropertyRange>
+</Ontology>
+
+
+
+<!-- Generated by the OWL API (version 5.1.0.2017-03-29T23:31:42Z) https://github.com/owlcs/owlapi/ -->
+
+

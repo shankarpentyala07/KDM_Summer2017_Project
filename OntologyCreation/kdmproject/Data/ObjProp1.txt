@@ -1,0 +1,6 @@
+head-of,PERSON,PERSON,Func
+s,LOCATION,LOCATION,Func
+member-from,PERSON,PERSON,Func
+president-of,PERSON,PERSON,Func
+represent,PERSON,LOCATION,Func
+is-with,PERSON,PERSON,Func

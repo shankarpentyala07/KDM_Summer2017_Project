@@ -1,0 +1,1334 @@
+<?xml version="1.0"?>
+<Ontology xmlns="http://www.w3.org/2002/07/owl#"
+     xml:base="http://www.semanticweb.org/Innovators/ontologies/2017/6/Cryptology#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     ontologyIRI="http://www.semanticweb.org/Innovators/ontologies/2017/6/Cryptology#">
+    <Prefix name="owl" IRI="http://www.w3.org/2002/07/owl#"/>
+    <Prefix name="rdf" IRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#"/>
+    <Prefix name="xml" IRI="http://www.w3.org/XML/1998/namespace"/>
+    <Prefix name="xsd" IRI="http://www.w3.org/2001/XMLSchema#"/>
+    <Prefix name="rdfs" IRI="http://www.w3.org/2000/01/rdf-schema#"/>
+    <Declaration>
+        <Class IRI="DATE"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="DURATION"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="LOCATION"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="MONEY"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="NUMBER"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="ORDINAL"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="ORGANIZATION"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="PERCENT"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="PERSON"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="TIME"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Alexis"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Kolesidis/Reuters"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="night"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="48"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="House"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Monetary"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="29.7"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="now"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="300"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Venizelos"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Spain"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Antonis"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Athens"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="tomorrow"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="6.9"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Greece"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="40"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Al-Jazeera"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="International"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Tsiodras"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="33"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Theodossiades"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Panteion"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="7.144"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="year"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="United"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Pierrakis"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Mark"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="future"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="is-in"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="third"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="ago"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Schaeuble"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Guido"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Fund"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="first"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="fifth"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Mexico"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="has"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="White"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="30"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="BBC"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="69"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="day"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="few"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Wolfgang"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="128"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="129"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="3.3"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Panagiotis"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Antonis-Samaras"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="3.6"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="today"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Westerwelle"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="be"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="voting-in"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="leader-of"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="recent"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Syriza"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Golden"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="ATHENS"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="IMF"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="percent"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="weeks"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Angela"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="previously"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="EU"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Karolos"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="signed"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Evangelos"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Italy"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Samaras"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="50"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="10-year"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="University"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="present"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Democracy"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Exarhia"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Harry"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="29.7-%"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Europe"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Jazeera"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Barnaby"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Obama"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="100"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="2010"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Nikos"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Alexis-Tsipras"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Williams"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="current"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Papasotiriou"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Darren"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="placed"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="one"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="gross"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="PASOK"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="France"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Bank"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Monday"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Demetris"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Commerzbank"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Luxembourg"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Commission"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="second"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="New-Democracy"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Pasok"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="the"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Today"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="26.9"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="came-in"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="72"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="evening"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="71"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="BNP"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="days"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="New"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Merkel"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Jean-Paul"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Tomorrow"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="22"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Brussels"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="27"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Dawn"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Papoulias"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Daniel"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="European"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="37-year-old"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Barnaby-Phillips-reporting-from-Athens"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="12.3"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Spring"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="300bn"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Juncker"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Policy"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Tsipras"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="12"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="AllianceBernstein"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="18"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="London"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="17"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Central"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="four"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="John"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="States"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="three"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Phillips"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="2009"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Gros"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="two"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Sunday"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Studies"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Al"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="May"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Germany"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Mark-Lowen-in-Athens"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="29.7-%-of-vote"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="10"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Lowen"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Parliament"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Socialist-PASOK-party"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="months"/>
+    </Declaration>
+    <ClassAssertion>
+        <Class IRI="LOCATION"/>
+        <NamedIndividual IRI="ATHENS"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="ORGANIZATION"/>
+        <NamedIndividual IRI="Al"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="PERSON"/>
+        <NamedIndividual IRI="Alexis"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="ORGANIZATION"/>
+        <NamedIndividual IRI="AllianceBernstein"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="PERSON"/>
+        <NamedIndividual IRI="Angela"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="PERSON"/>
+        <NamedIndividual IRI="Antonis"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="LOCATION"/>
+        <NamedIndividual IRI="Athens"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="ORGANIZATION"/>
+        <NamedIndividual IRI="BBC"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="ORGANIZATION"/>
+        <NamedIndividual IRI="BNP"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="ORGANIZATION"/>
+        <NamedIndividual IRI="Bank"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="PERSON"/>
+        <NamedIndividual IRI="Barnaby"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="LOCATION"/>
+        <NamedIndividual IRI="Brussels"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="ORGANIZATION"/>
+        <NamedIndividual IRI="Central"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="ORGANIZATION"/>
+        <NamedIndividual IRI="Commerzbank"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="ORGANIZATION"/>
+        <NamedIndividual IRI="Commission"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="PERSON"/>
+        <NamedIndividual IRI="Daniel"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="PERSON"/>
+        <NamedIndividual IRI="Darren"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="PERSON"/>
+        <NamedIndividual IRI="Dawn"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="PERSON"/>
+        <NamedIndividual IRI="Demetris"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="ORGANIZATION"/>
+        <NamedIndividual IRI="Democracy"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="ORGANIZATION"/>
+        <NamedIndividual IRI="EU"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="LOCATION"/>
+        <NamedIndividual IRI="Europe"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="ORGANIZATION"/>
+        <NamedIndividual IRI="European"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="PERSON"/>
+        <NamedIndividual IRI="Evangelos"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="LOCATION"/>
+        <NamedIndividual IRI="Exarhia"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="LOCATION"/>
+        <NamedIndividual IRI="France"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="ORGANIZATION"/>
+        <NamedIndividual IRI="Fund"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="LOCATION"/>
+        <NamedIndividual IRI="Germany"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="PERSON"/>
+        <NamedIndividual IRI="Golden"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="LOCATION"/>
+        <NamedIndividual IRI="Greece"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="PERSON"/>
+        <NamedIndividual IRI="Gros"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="PERSON"/>
+        <NamedIndividual IRI="Guido"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="PERSON"/>
+        <NamedIndividual IRI="Harry"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="ORGANIZATION"/>
+        <NamedIndividual IRI="House"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="ORGANIZATION"/>
+        <NamedIndividual IRI="IMF"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="ORGANIZATION"/>
+        <NamedIndividual IRI="International"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="LOCATION"/>
+        <NamedIndividual IRI="Italy"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="ORGANIZATION"/>
+        <NamedIndividual IRI="Jazeera"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="PERSON"/>
+        <NamedIndividual IRI="Jean-Paul"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="PERSON"/>
+        <NamedIndividual IRI="John"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="PERSON"/>
+        <NamedIndividual IRI="Juncker"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="PERSON"/>
+        <NamedIndividual IRI="Karolos"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="LOCATION"/>
+        <NamedIndividual IRI="London"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="PERSON"/>
+        <NamedIndividual IRI="Lowen"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="LOCATION"/>
+        <NamedIndividual IRI="Luxembourg"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="PERSON"/>
+        <NamedIndividual IRI="Mark"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="DATE"/>
+        <NamedIndividual IRI="May"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="PERSON"/>
+        <NamedIndividual IRI="Merkel"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="LOCATION"/>
+        <NamedIndividual IRI="Mexico"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="DATE"/>
+        <NamedIndividual IRI="Monday"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="ORGANIZATION"/>
+        <NamedIndividual IRI="Monetary"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="ORGANIZATION"/>
+        <NamedIndividual IRI="New"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="PERSON"/>
+        <NamedIndividual IRI="Nikos"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="PERSON"/>
+        <NamedIndividual IRI="Obama"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="ORGANIZATION"/>
+        <NamedIndividual IRI="PASOK"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="PERSON"/>
+        <NamedIndividual IRI="Panagiotis"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="ORGANIZATION"/>
+        <NamedIndividual IRI="Panteion"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="PERSON"/>
+        <NamedIndividual IRI="Papasotiriou"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="PERSON"/>
+        <NamedIndividual IRI="Papoulias"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="ORGANIZATION"/>
+        <NamedIndividual IRI="Parliament"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="ORGANIZATION"/>
+        <NamedIndividual IRI="Pasok"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="PERSON"/>
+        <NamedIndividual IRI="Phillips"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="PERSON"/>
+        <NamedIndividual IRI="Pierrakis"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="ORGANIZATION"/>
+        <NamedIndividual IRI="Policy"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="PERSON"/>
+        <NamedIndividual IRI="Samaras"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="PERSON"/>
+        <NamedIndividual IRI="Schaeuble"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="LOCATION"/>
+        <NamedIndividual IRI="Spain"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="DATE"/>
+        <NamedIndividual IRI="Spring"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="LOCATION"/>
+        <NamedIndividual IRI="States"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="ORGANIZATION"/>
+        <NamedIndividual IRI="Studies"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="DATE"/>
+        <NamedIndividual IRI="Sunday"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="LOCATION"/>
+        <NamedIndividual IRI="Syriza"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="PERSON"/>
+        <NamedIndividual IRI="Syriza"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="PERSON"/>
+        <NamedIndividual IRI="Theodossiades"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="DATE"/>
+        <NamedIndividual IRI="Today"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="DATE"/>
+        <NamedIndividual IRI="Tomorrow"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="PERSON"/>
+        <NamedIndividual IRI="Tsiodras"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="PERSON"/>
+        <NamedIndividual IRI="Tsipras"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="LOCATION"/>
+        <NamedIndividual IRI="United"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="ORGANIZATION"/>
+        <NamedIndividual IRI="University"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="PERSON"/>
+        <NamedIndividual IRI="Venizelos"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="PERSON"/>
+        <NamedIndividual IRI="Westerwelle"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="ORGANIZATION"/>
+        <NamedIndividual IRI="White"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="PERSON"/>
+        <NamedIndividual IRI="Williams"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="PERSON"/>
+        <NamedIndividual IRI="Wolfgang"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="DATE"/>
+        <NamedIndividual IRI="ago"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="DATE"/>
+        <NamedIndividual IRI="current"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="DATE"/>
+        <NamedIndividual IRI="day"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="DURATION"/>
+        <NamedIndividual IRI="days"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="TIME"/>
+        <NamedIndividual IRI="evening"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="DATE"/>
+        <NamedIndividual IRI="few"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="DATE"/>
+        <NamedIndividual IRI="fifth"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="ORDINAL"/>
+        <NamedIndividual IRI="first"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="DATE"/>
+        <NamedIndividual IRI="four"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="DATE"/>
+        <NamedIndividual IRI="future"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="NUMBER"/>
+        <NamedIndividual IRI="gross"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="DATE"/>
+        <NamedIndividual IRI="months"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="TIME"/>
+        <NamedIndividual IRI="night"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="DATE"/>
+        <NamedIndividual IRI="now"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="NUMBER"/>
+        <NamedIndividual IRI="one"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="PERCENT"/>
+        <NamedIndividual IRI="percent"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="DATE"/>
+        <NamedIndividual IRI="present"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="DATE"/>
+        <NamedIndividual IRI="previously"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="DURATION"/>
+        <NamedIndividual IRI="recent"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="ORDINAL"/>
+        <NamedIndividual IRI="second"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="DATE"/>
+        <NamedIndividual IRI="the"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="ORDINAL"/>
+        <NamedIndividual IRI="third"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="DURATION"/>
+        <NamedIndividual IRI="three"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="DATE"/>
+        <NamedIndividual IRI="today"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="DATE"/>
+        <NamedIndividual IRI="tomorrow"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="NUMBER"/>
+        <NamedIndividual IRI="two"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="DATE"/>
+        <NamedIndividual IRI="weeks"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="DURATION"/>
+        <NamedIndividual IRI="weeks"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="DATE"/>
+        <NamedIndividual IRI="year"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="NUMBER"/>
+        <NamedIndividual IRI="10"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="DURATION"/>
+        <NamedIndividual IRI="10-year"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="DURATION"/>
+        <NamedIndividual IRI="100"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="NUMBER"/>
+        <NamedIndividual IRI="12"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="PERCENT"/>
+        <NamedIndividual IRI="12"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="PERCENT"/>
+        <NamedIndividual IRI="12.3"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="NUMBER"/>
+        <NamedIndividual IRI="128"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="NUMBER"/>
+        <NamedIndividual IRI="129"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="NUMBER"/>
+        <NamedIndividual IRI="17"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="NUMBER"/>
+        <NamedIndividual IRI="18"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="DATE"/>
+        <NamedIndividual IRI="2009"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="DATE"/>
+        <NamedIndividual IRI="2010"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="NUMBER"/>
+        <NamedIndividual IRI="22"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="PERCENT"/>
+        <NamedIndividual IRI="22"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="PERCENT"/>
+        <NamedIndividual IRI="26.9"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="NUMBER"/>
+        <NamedIndividual IRI="27"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="PERCENT"/>
+        <NamedIndividual IRI="27"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="PERCENT"/>
+        <NamedIndividual IRI="29.7"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="PERCENT"/>
+        <NamedIndividual IRI="3.3"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="PERCENT"/>
+        <NamedIndividual IRI="3.6"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="NUMBER"/>
+        <NamedIndividual IRI="30"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="PERCENT"/>
+        <NamedIndividual IRI="30"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="NUMBER"/>
+        <NamedIndividual IRI="300"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="MONEY"/>
+        <NamedIndividual IRI="300bn"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="NUMBER"/>
+        <NamedIndividual IRI="33"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="DURATION"/>
+        <NamedIndividual IRI="37-year-old"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="PERCENT"/>
+        <NamedIndividual IRI="40"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="NUMBER"/>
+        <NamedIndividual IRI="48"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="NUMBER"/>
+        <NamedIndividual IRI="50"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="NUMBER"/>
+        <NamedIndividual IRI="6.9"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="NUMBER"/>
+        <NamedIndividual IRI="69"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="PERCENT"/>
+        <NamedIndividual IRI="7.144"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="NUMBER"/>
+        <NamedIndividual IRI="71"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="NUMBER"/>
+        <NamedIndividual IRI="72"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="PERSON"/>
+        <NamedIndividual IRI="Kolesidis/Reuters"/>
+    </ClassAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="has"/>
+        <NamedIndividual IRI="Al-Jazeera"/>
+        <NamedIndividual IRI="Barnaby-Phillips-reporting-from-Athens"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="leader-of"/>
+        <NamedIndividual IRI="Alexis-Tsipras"/>
+        <NamedIndividual IRI="Syriza"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="is-in"/>
+        <NamedIndividual IRI="AllianceBernstein"/>
+        <NamedIndividual IRI="London"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="has"/>
+        <NamedIndividual IRI="BBC"/>
+        <NamedIndividual IRI="Mark-Lowen-in-Athens"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="has"/>
+        <NamedIndividual IRI="Germany"/>
+        <NamedIndividual IRI="Commerzbank"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="signed"/>
+        <NamedIndividual IRI="Greece"/>
+        <NamedIndividual IRI="first"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="has"/>
+        <NamedIndividual IRI="New-Democracy"/>
+        <NamedIndividual IRI="Antonis-Samaras"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="has"/>
+        <NamedIndividual IRI="New-Democracy"/>
+        <NamedIndividual IRI="29.7-%"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="has"/>
+        <NamedIndividual IRI="New-Democracy"/>
+        <NamedIndividual IRI="29.7-%-of-vote"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="placed"/>
+        <NamedIndividual IRI="Pasok"/>
+        <NamedIndividual IRI="third"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="voting-in"/>
+        <NamedIndividual IRI="Samaras"/>
+        <NamedIndividual IRI="Greece"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="came-in"/>
+        <NamedIndividual IRI="Socialist-PASOK-party"/>
+        <NamedIndividual IRI="third"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="be"/>
+        <NamedIndividual IRI="Syriza"/>
+        <NamedIndividual IRI="present"/>
+    </ObjectPropertyAssertion>
+    <FunctionalObjectProperty>
+        <ObjectProperty IRI="be"/>
+    </FunctionalObjectProperty>
+    <FunctionalObjectProperty>
+        <ObjectProperty IRI="came-in"/>
+    </FunctionalObjectProperty>
+    <FunctionalObjectProperty>
+        <ObjectProperty IRI="has"/>
+    </FunctionalObjectProperty>
+    <FunctionalObjectProperty>
+        <ObjectProperty IRI="has"/>
+    </FunctionalObjectProperty>
+    <FunctionalObjectProperty>
+        <ObjectProperty IRI="has"/>
+    </FunctionalObjectProperty>
+    <FunctionalObjectProperty>
+        <ObjectProperty IRI="has"/>
+    </FunctionalObjectProperty>
+    <FunctionalObjectProperty>
+        <ObjectProperty IRI="has"/>
+    </FunctionalObjectProperty>
+    <FunctionalObjectProperty>
+        <ObjectProperty IRI="has"/>
+    </FunctionalObjectProperty>
+    <FunctionalObjectProperty>
+        <ObjectProperty IRI="is-in"/>
+    </FunctionalObjectProperty>
+    <FunctionalObjectProperty>
+        <ObjectProperty IRI="leader-of"/>
+    </FunctionalObjectProperty>
+    <FunctionalObjectProperty>
+        <ObjectProperty IRI="placed"/>
+    </FunctionalObjectProperty>
+    <FunctionalObjectProperty>
+        <ObjectProperty IRI="signed"/>
+    </FunctionalObjectProperty>
+    <FunctionalObjectProperty>
+        <ObjectProperty IRI="voting-in"/>
+    </FunctionalObjectProperty>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="be"/>
+        <Class IRI="PERSON"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="came-in"/>
+        <Class IRI="PERSON"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="has"/>
+        <Class IRI="LOCATION"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="has"/>
+        <Class IRI="ORGANIZATION"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="has"/>
+        <Class IRI="PERSON"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="has"/>
+        <Class IRI="PERSON"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="has"/>
+        <Class IRI="PERSON"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="has"/>
+        <Class IRI="PERSON"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="is-in"/>
+        <Class IRI="ORGANIZATION"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="leader-of"/>
+        <Class IRI="PERSON"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="placed"/>
+        <Class IRI="PERSON"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="signed"/>
+        <Class IRI="LOCATION"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="voting-in"/>
+        <Class IRI="PERSON"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="be"/>
+        <Class IRI="DATE"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="came-in"/>
+        <Class IRI="ORDINAL"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="has"/>
+        <Class IRI="NUMBER"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="has"/>
+        <Class IRI="NUMBER"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="has"/>
+        <Class IRI="ORGANIZATION"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="has"/>
+        <Class IRI="PERSON"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="has"/>
+        <Class IRI="PERSON"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="has"/>
+        <Class IRI="PERSON"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="is-in"/>
+        <Class IRI="LOCATION"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="leader-of"/>
+        <Class IRI="PERSON"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="placed"/>
+        <Class IRI="ORDINAL"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="signed"/>
+        <Class IRI="ORDINAL"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="voting-in"/>
+        <Class IRI="LOCATION"/>
+    </ObjectPropertyRange>
+</Ontology>
+
+
+
+<!-- Generated by the OWL API (version 5.1.0.2017-03-29T23:31:42Z) https://github.com/owlcs/owlapi/ -->
+
+

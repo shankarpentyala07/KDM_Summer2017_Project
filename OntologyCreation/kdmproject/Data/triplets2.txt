@@ -1,0 +1,13 @@
+Friday,after,magnitude-9.0-earthquake,Obj
+Japan,has,Nuclear-Safety-Agency,Obj
+Japan,has,Kashiwazaki-Kariwa-nuclear-plant-in-Niigata-prefecture,Obj
+Robert-Cessaro,geophysicist-at,Pacific-Tsunami-Warning-Center-in-Hawaii,Obj
+Hawaii,in-Center-is,PTWC,Obj
+California,will-see-waves-with,Alaska,Obj
+California,has,Crescent-City,Obj
+British-Geological-Survey,is-in,Edinburgh,Obj
+Brian-Baptie,seismologist-at,British-Geological-Survey-in-Edinburgh,Obj
+Great-Kanto,is-in,1923,Obj
+Japan,has,Meteorological-Agency,Obj
+Kevin-McCue,seismologist-at,Central-Queensland-University,Obj
+James-Goff,researcher-at,University-of-New-South-Wales-in-Sydney,Obj

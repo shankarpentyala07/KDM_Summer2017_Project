@@ -1,0 +1,6 @@
+Antonis-Samaras,head-of,New-Democracy-party,Obj
+Germany,s,Greece,Obj
+Chrysanthos-Lazaridis,member-from,New-Democracy,Obj
+Vasilios-Rapanos,president-of,National-Bank,Obj
+George-Zanias,represent,Greece,Obj
+Mitsotakis,is-with,New-Democracy,Obj

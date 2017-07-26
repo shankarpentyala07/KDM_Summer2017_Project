@@ -1,0 +1,13 @@
+Pasok,placed,third,Obj
+AllianceBernstein,is-in,London,Obj
+Alexis-Tsipras,leader-of,Syriza,Obj
+Syriza,be,present,Obj
+Greece,signed,first,Obj
+Socialist-PASOK-party,came-in,third,Obj
+Al-Jazeera,has,Barnaby-Phillips-reporting-from-Athens,Obj
+Samaras,voting-in,Greece,Obj
+New-Democracy,has,Antonis-Samaras,Obj
+Germany,has,Commerzbank,Obj
+BBC,has,Mark-Lowen-in-Athens,Obj
+New-Democracy,has,29.7-%-of-vote,Obj
+New-Democracy,has,29.7-%,Obj
